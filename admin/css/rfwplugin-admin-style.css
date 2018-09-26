@@ -1,0 +1,35 @@
+body {
+  background: white;
+}
+a {
+  color: #333;
+  text-decoration: none;
+}
+.w-50 {
+  width: 50%;
+}
+.m-20px-tb { margin: 20px 0; }
+.m-20px-r {margin-right: 20px;}
+.m-20px-b {margin-bottom: 20px;}
+.inline-f {display: inline-flex;}
+.flt-l {float: left;}
+
+.wrap {
+  background: white;
+  padding: 2rem;
+}
+.wrap .notice {
+  display: none;
+}
+
+code {
+  font-family: 'Source Code Pro', sans-serif;
+  background: none;
+  margin: 0;
+  padding: 0;
+}
+.code-wrapper {
+  background: #e8e8e8;
+  padding: 20px;
+  border-radius: 5px;
+}
